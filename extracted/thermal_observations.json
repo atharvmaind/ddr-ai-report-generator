@@ -1,0 +1,252 @@
+{
+  "report_type": "thermal",
+  "source_path": "Thermography_Sample_Report.pdf",
+  "observations": [
+    {
+      "source": "thermal",
+      "area": "ServiceDate:",
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nInfrared Thermography Survey\nThe Hartford Steam Boiler Inspection and Insurance Company\nClient: HSBRepresentative:\nXYC Corporation Bill Viot\n4321 Any Town, New York\nUnited States\nLocation: ServiceDate:\nABC Company, Inc. March 24, 2022\n1234 Any Street\nBoston, Massachusetts 02576 Additional Date:\nUnited States\nConferred With:\nDanny Wilcox",
+      "page": 1,
+      "image_refs": [
+        "thermal_1_0.jpg"
+      ],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nInfrared Thermography Survey\nThe Hartford Steam Boiler Inspection and Insurance Company\nClient: HSBRepr"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": "s:",
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nInspection Summary\nHSB Thermography Services would like to take this opportunity to thank you for your\nassistance in completing the recent infrared survey of your facility.\nThe scope of work at your facility included the following areas:\nSwitchyard, Transformers, Distribution Panels, Motor Control Centers, VFD’s and\nBreaker Panels.\nEquipment not surveyed during this visit includes de-energized, lightly loaded,\ninaccessible and/or deemed by plant personnel to be non-critical.\nAs a result of this service the following Findings are presented for your review:",
+      "page": 2,
+      "image_refs": [],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nInspection Summary\nHSB Thermography Services would like to take this opportunity to than"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": null,
+      "issue": null,
+      "text": "1 CRITICAL",
+      "page": 2,
+      "image_refs": [],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "1 CRITICAL"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": null,
+      "issue": null,
+      "text": "1 SEVERE",
+      "page": 2,
+      "image_refs": [],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "1 SEVERE"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": null,
+      "issue": null,
+      "text": "2 ALERT",
+      "page": 2,
+      "image_refs": [],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "2 ALERT"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": null,
+      "issue": null,
+      "text": "3 ADVISORY\nShould you have any questions or comments concerning this report or our services, we\nare here to assist you. Please feel free to call me at 860-281-2541 or by email:\nWIlliam_Viot@hsb.com\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2023, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+      "page": 2,
+      "image_refs": [],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "3 ADVISORY\nShould you have any questions or comments concerning this report or our services, we\nare here to assist you. Please feel free to call me at 860-281-2541 or by email:\nWIlliam_Viot@hsb.com\nTh"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": "Equipment Equipment ID Est",
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nOverview\nAbout HSB Thermography Services\nInfrared thermographic surveys are non-contact, non-destructive examinations used to find abnormal or\nunexpected thermal patterns or temperature differentials. These thermal patterns may indicate such\nconditions as loose connections, overloaded circuits or phases, deteriorated or damaged insulation or\nrefractory, or excessive or unwanted friction, among others.\nTo perform the thermographic survey of your facility, HSB Thermography Services used the FLIR\nThermacam infrared imaging system. This system utilizes the latest developments in un-cooled\ntechnology to generate the most accurate data available.\nThe calibration for this system is certified traceable to The National Institute of Standards and\nTechnology, NIST, USA and the Swedish National Testing and Research Institute, SP. This calibration is\nbased on the International Temperature Scale (ITS-90).\nBill Viot is a Level II Thermographer in accordance with the American Society of Nondestructive Testing\n(ASNT) SNT-TC-1A and Hartford Steam Boiler Inspection and Insurance Company’s Qualification\nStandards.\nRecommendation Summary\nRec No Severity Location Equipment Equipment ID Est. Repair Est. Repair\nArea Location Cost Before Cost After\nFailure Failure\n2022-03-001 Critical Outside Main East Secondary $ 5000.00 $78000.00\nSubstation Transformer Bushing\n2022-03-002 Severe Raw Pellet Feeder Main Breaker $ 100.00 $4000.00\nMaterials\n2022-03-003 Alert Press Dept. Pres No.22 Disconnect $ 50.00 $475.00\n2022-03-004 Alert Packing Palletizer Fuse No.1673 $ 25.00 $40.00\nDept. Control Panel\nTotal Estimated Repair Costs Before Failure $5,175.00\nTotal Estimated Repair Costs After Failure $82,515.00\nCost Avoidance $77,340.00\n*Before and After costs- This estimate is based only on direct damage to the equipment and does not\ninclude the costs of business interruption, extra expenses, spoilage, etc.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+      "page": 3,
+      "image_refs": [
+        "thermal_3_0.jpg"
+      ],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nOverview\nAbout HSB Thermography Services\nInfrared thermographic surveys are non-contact,"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": "Area: Outside",
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRecommendations\nCritical Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-001 East Secondary Bushing Initial Open\nLocation Area: Outside\nSubstation\nEquipment Location: Main\nTransformer\nEst. Repair Cost Before Failure: $5000.00\nEst. Repair Cost After Failure: $78000.00\nEstimated % of Production: 100%\nEstimated Down Time: 10-14 Days\nReference Point 76.4°F\nBox 1 Max Temp 176.0°F\nBox 1 Temp Rise 99.6°F\nBushing Connection Fault\nThe thermal pattern indicates the transformer has an internal problem conducting heat out to the surface of\nthe bushing. This should be investigated and repaired by a qualified HV electrical contractor.\n*This is rated as “CRITICAL” due to the high replacement cost of the transformer and potential business\ninterruption should a failure occur.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+      "page": 4,
+      "image_refs": [
+        "thermal_4_1.jpg",
+        "thermal_4_2.jpg",
+        "thermal_4_3.png",
+        "thermal_4_4.png"
+      ],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRecommendations\nCritical Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Reco"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": "Area: Raw Materials",
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nSevere Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-002 Main Breaker Initial Open\nLocation Area: Raw Materials\nEquipment Location: Pellet Feeder\nEst. Repair Cost Before Failure: $100.00\nEst. Repair Cost After Failure: $4000.00\nEstimated % of Production: 50%\nEstimated Down Time: 2 Days\nReference Point 139.9°F\nBox 1 Max Temp 262.5°F\nBox 1 Temp Rise 122.6°F\nPoor Connection\nThe lug connection should be disassembled, cleaned, inspected for damage and repaired as necessary.\nReplace any discolored or damaged hardware and cut back the wire to sound conductor. Reassemble and\ntorque the fastener according to the manufacturer’s specifications.\n*This is rated as “SEVERE” due to the very high temperature and potential business interruption.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+      "page": 5,
+      "image_refs": [
+        "thermal_5_1.jpg",
+        "thermal_5_2.jpg"
+      ],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nSevere Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": "Area: Press Dept",
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nAlert Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-003 Disconnect Initial Open\nLocation Area: Press Dept.\nEquipment Location: Pres No.22\nEst. Repair Cost Before Failure: $50.00\nEst. Repair Cost After Failure: $475.00\nEstimated % of Production: 10%\nEstimated Down Time: 1 Days\nReference Point 91.4°F\nBox 1 Max Temp 132.3°F\nBox 1 Temp Rise 40.9°F\nBox 2 Max Temp 139.1°F\nBox 2 Temp Rise 47.7°F\nPoor Connection\nThe lug connections should be disassembled, cleaned, inspected for damage and repaired as necessary.\nReassemble and properly lubricate and torque fasteners according to the manufacturer's specifications,\nusing new hardware as required.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+      "page": 6,
+      "image_refs": [
+        "thermal_6_1.jpg",
+        "thermal_6_2.jpg"
+      ],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nAlert Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": "Area: Packing Dept",
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-004 Fuse No.1673 Initial Open\nLocation Area: Packing Dept.\nEquipment Location: Palletizer\nControl Panel\nEst. Repair Cost Before Failure: $25.00\nEst. Repair Cost After Failure: $40.00\nEstimated % of Production: 0%\nEstimated Down Time: 0 Days\nReference Point 81.1°F\nBox 1 Max Temp 121.0°F\nBox 1 Temp Rise 39.9°F\nImproper Connection\nRemove the fuse, inspect and clean the fuse clip and cap. Reinsert the fuse ensuring the fuse clip is\nmaking good contact with the fuse cap and providing proper tension. The fuse and fuse clip are not making\na proper connection. The fuse should be removed; the surfaces of the fuse and clip inspected and cleaned\nof any oxidation. Reinsert the fuse ensuring the fuse clip is providing proper spring tension. If the\ntemperature is still elevated, replace the fuse. Also, all three fuses should be the same size, style, and type\nfrom the same manufacturer.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+      "page": 7,
+      "image_refs": [
+        "thermal_7_1.jpg",
+        "thermal_7_2.jpg"
+      ],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-004 Fuse No.16"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": null,
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRecommendations\nAdvisory Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-005 All Electrical Equipment Initial Open\nInfrared Scan: Optimize - Potential Savings Opportunity\nCondition\nAn infrared scan of the complete electrical system has not been conducted within the last three years.\nRecommendation\nAn infrared survey of the complete electrical system should be performed at the earliest convenience and\nrepeated every three years. The survey should include, but not necessarily be limited to, all electrical\nconnections, cable runs, bus ducts and electrical distribution panels. Survey results and Recommendation\nshould be made available to qualified maintenance department staff or electrical contractor to address\ncorrective actions noted. All electrical and mechanical equipment emits heat in the form of electromagnetic\nradiation. Abnormal or unexpected thermal patterns can be indicative of problems with the equipment that\ncould lead to a breakdown, failure or cause a fire. Infrared cameras are sensitive to thermal radiation and\ncan detect and measure temperature differences between surfaces. Infrared thermography is a noncontact\nand nondestructive way to detect problems such as \"hot spots\" or heat imbalances which may indicate\nloose or corroded connections or overload conditions that should be corrected in an electrical system.\nOptimize - Potential Savings Opportunity\nHeat loss resulting from loose or corroded connections can also mean reduced operating efficiency and\ncorresponding increased energy costs. While a single loose connection may represent only a small,\nincremental energy loss, numerous loose connections throughout the electrical system could in sum\ntranslate to a larger energy savings opportunity that could be executed by qualified personnel. Infrared\nthermography integrated with the other elements of a well constructed Electrical Preventive Maintenance\nProgram can address both loss and efficiency.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+      "page": 8,
+      "image_refs": [],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRecommendations\nAdvisory Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Reco"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": "Area: Assembly",
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-006 MDP-1A Initial Open\nMissing Side Cover\nLocation Area: Assembly\nDept.\nEquipment Location By Overhead\nDoor\nCondition\nMissing covers were observed at the following components of the facility electrical system: MDP-1A.\nRecommendation\nJunction boxes, panels, switches and receptacles should be properly covered and sealed. Exposed\nelectrical conductors allow dirt and moisture to reach parts of the system and can lead to premature\nfailures and can also represent a safety hazard.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+      "page": 9,
+      "image_refs": [
+        "thermal_9_1.jpg"
+      ],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-006 MDP-1A Ini"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": "Area: Warehouse",
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-007 Lighting Panel Initial Open\nFPE Stab-Lok Panel\nLocation Area: Warehouse\nEquipment Location Shipping\nOffice\nCondition\nIt was noted that this facility may utilize Federal Pacific Electric Company (FPE) Stab-Lok breakers and/or\npanelboards. Testing by several others concluded that certain Stab-Lok breakers do not trip according to\nUL requirements and, in some cases, jam in the “on” position. In addition, overheating problems have been\nfound with the panelboard internal bus connections.\nRecommendation\nA qualified electrical contractor should inspect the suspected equipment and if identified, the Federal\nPacific Electric Stab-Lok panelboards and breakers should be completely replaced with new panelboard\nand breaker installations. Additional information can be found at HSB.com Knowledge Center Loss\nPrevention Document # 115\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+      "page": 10,
+      "image_refs": [
+        "thermal_10_1.jpg"
+      ],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-007 Lighting P"
+      }
+    },
+    {
+      "source": "thermal",
+      "area": null,
+      "issue": null,
+      "text": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRecommendation Type Definitions\nCritical Recommendations\nThe noted condition presents a significant risk of personnel injury, property or fire damage, exhibits signs\nof advanced degradation and imminent failure, and/or may subject the facility to an extended business\ninterruption.\nSevere Recommendations\nThe noted condition presents a risk of personnel injury, contained property damage and fire may be\npossible, and/or localized equipment damage and business interruption may result.\nAlert Recommendations\nThe noted condition is routine in nature and is easily repairable. Cost is often limited to labor and a few\nminor parts.\nAdvisory Recommendations\nThe following is helpful information based on HSB’s experience and engineering judgement.\nRecommendation Response\nPlease click the link below to provide updates or additional information related to recommendations.\nhttps://hsbuat.losscontrol360.com/jmp/FVSBTRW\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+      "page": 11,
+      "image_refs": [],
+      "temperature_anomaly": null,
+      "structural_defect": null,
+      "raw_metadata": {
+        "block": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRecommendation Type Definitions\nCritical Recommendations\nThe noted condition presents a "
+      }
+    }
+  ],
+  "raw_text_by_page": {
+    "1": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nInfrared Thermography Survey\nThe Hartford Steam Boiler Inspection and Insurance Company\nClient: HSBRepresentative:\nXYC Corporation Bill Viot\n4321 Any Town, New York\nUnited States\nLocation: ServiceDate:\nABC Company, Inc. March 24, 2022\n1234 Any Street\nBoston, Massachusetts 02576 Additional Date:\nUnited States\nConferred With:\nDanny Wilcox",
+    "2": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nInspection Summary\nHSB Thermography Services would like to take this opportunity to thank you for your\nassistance in completing the recent infrared survey of your facility.\nThe scope of work at your facility included the following areas:\nSwitchyard, Transformers, Distribution Panels, Motor Control Centers, VFD’s and\nBreaker Panels.\nEquipment not surveyed during this visit includes de-energized, lightly loaded,\ninaccessible and/or deemed by plant personnel to be non-critical.\nAs a result of this service the following Findings are presented for your review:\n1 CRITICAL\n1 SEVERE\n2 ALERT\n3 ADVISORY\nShould you have any questions or comments concerning this report or our services, we\nare here to assist you. Please feel free to call me at 860-281-2541 or by email:\nWIlliam_Viot@hsb.com\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2023, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+    "3": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nOverview\nAbout HSB Thermography Services\nInfrared thermographic surveys are non-contact, non-destructive examinations used to find abnormal or\nunexpected thermal patterns or temperature differentials. These thermal patterns may indicate such\nconditions as loose connections, overloaded circuits or phases, deteriorated or damaged insulation or\nrefractory, or excessive or unwanted friction, among others.\nTo perform the thermographic survey of your facility, HSB Thermography Services used the FLIR\nThermacam infrared imaging system. This system utilizes the latest developments in un-cooled\ntechnology to generate the most accurate data available.\nThe calibration for this system is certified traceable to The National Institute of Standards and\nTechnology, NIST, USA and the Swedish National Testing and Research Institute, SP. This calibration is\nbased on the International Temperature Scale (ITS-90).\nBill Viot is a Level II Thermographer in accordance with the American Society of Nondestructive Testing\n(ASNT) SNT-TC-1A and Hartford Steam Boiler Inspection and Insurance Company’s Qualification\nStandards.\nRecommendation Summary\nRec No Severity Location Equipment Equipment ID Est. Repair Est. Repair\nArea Location Cost Before Cost After\nFailure Failure\n2022-03-001 Critical Outside Main East Secondary $ 5000.00 $78000.00\nSubstation Transformer Bushing\n2022-03-002 Severe Raw Pellet Feeder Main Breaker $ 100.00 $4000.00\nMaterials\n2022-03-003 Alert Press Dept. Pres No.22 Disconnect $ 50.00 $475.00\n2022-03-004 Alert Packing Palletizer Fuse No.1673 $ 25.00 $40.00\nDept. Control Panel\nTotal Estimated Repair Costs Before Failure $5,175.00\nTotal Estimated Repair Costs After Failure $82,515.00\nCost Avoidance $77,340.00\n*Before and After costs- This estimate is based only on direct damage to the equipment and does not\ninclude the costs of business interruption, extra expenses, spoilage, etc.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+    "4": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRecommendations\nCritical Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-001 East Secondary Bushing Initial Open\nLocation Area: Outside\nSubstation\nEquipment Location: Main\nTransformer\nEst. Repair Cost Before Failure: $5000.00\nEst. Repair Cost After Failure: $78000.00\nEstimated % of Production: 100%\nEstimated Down Time: 10-14 Days\nReference Point 76.4°F\nBox 1 Max Temp 176.0°F\nBox 1 Temp Rise 99.6°F\nBushing Connection Fault\nThe thermal pattern indicates the transformer has an internal problem conducting heat out to the surface of\nthe bushing. This should be investigated and repaired by a qualified HV electrical contractor.\n*This is rated as “CRITICAL” due to the high replacement cost of the transformer and potential business\ninterruption should a failure occur.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+    "5": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nSevere Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-002 Main Breaker Initial Open\nLocation Area: Raw Materials\nEquipment Location: Pellet Feeder\nEst. Repair Cost Before Failure: $100.00\nEst. Repair Cost After Failure: $4000.00\nEstimated % of Production: 50%\nEstimated Down Time: 2 Days\nReference Point 139.9°F\nBox 1 Max Temp 262.5°F\nBox 1 Temp Rise 122.6°F\nPoor Connection\nThe lug connection should be disassembled, cleaned, inspected for damage and repaired as necessary.\nReplace any discolored or damaged hardware and cut back the wire to sound conductor. Reassemble and\ntorque the fastener according to the manufacturer’s specifications.\n*This is rated as “SEVERE” due to the very high temperature and potential business interruption.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+    "6": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nAlert Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-003 Disconnect Initial Open\nLocation Area: Press Dept.\nEquipment Location: Pres No.22\nEst. Repair Cost Before Failure: $50.00\nEst. Repair Cost After Failure: $475.00\nEstimated % of Production: 10%\nEstimated Down Time: 1 Days\nReference Point 91.4°F\nBox 1 Max Temp 132.3°F\nBox 1 Temp Rise 40.9°F\nBox 2 Max Temp 139.1°F\nBox 2 Temp Rise 47.7°F\nPoor Connection\nThe lug connections should be disassembled, cleaned, inspected for damage and repaired as necessary.\nReassemble and properly lubricate and torque fasteners according to the manufacturer's specifications,\nusing new hardware as required.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+    "7": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-004 Fuse No.1673 Initial Open\nLocation Area: Packing Dept.\nEquipment Location: Palletizer\nControl Panel\nEst. Repair Cost Before Failure: $25.00\nEst. Repair Cost After Failure: $40.00\nEstimated % of Production: 0%\nEstimated Down Time: 0 Days\nReference Point 81.1°F\nBox 1 Max Temp 121.0°F\nBox 1 Temp Rise 39.9°F\nImproper Connection\nRemove the fuse, inspect and clean the fuse clip and cap. Reinsert the fuse ensuring the fuse clip is\nmaking good contact with the fuse cap and providing proper tension. The fuse and fuse clip are not making\na proper connection. The fuse should be removed; the surfaces of the fuse and clip inspected and cleaned\nof any oxidation. Reinsert the fuse ensuring the fuse clip is providing proper spring tension. If the\ntemperature is still elevated, replace the fuse. Also, all three fuses should be the same size, style, and type\nfrom the same manufacturer.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+    "8": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRecommendations\nAdvisory Recommendations\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-005 All Electrical Equipment Initial Open\nInfrared Scan: Optimize - Potential Savings Opportunity\nCondition\nAn infrared scan of the complete electrical system has not been conducted within the last three years.\nRecommendation\nAn infrared survey of the complete electrical system should be performed at the earliest convenience and\nrepeated every three years. The survey should include, but not necessarily be limited to, all electrical\nconnections, cable runs, bus ducts and electrical distribution panels. Survey results and Recommendation\nshould be made available to qualified maintenance department staff or electrical contractor to address\ncorrective actions noted. All electrical and mechanical equipment emits heat in the form of electromagnetic\nradiation. Abnormal or unexpected thermal patterns can be indicative of problems with the equipment that\ncould lead to a breakdown, failure or cause a fire. Infrared cameras are sensitive to thermal radiation and\ncan detect and measure temperature differences between surfaces. Infrared thermography is a noncontact\nand nondestructive way to detect problems such as \"hot spots\" or heat imbalances which may indicate\nloose or corroded connections or overload conditions that should be corrected in an electrical system.\nOptimize - Potential Savings Opportunity\nHeat loss resulting from loose or corroded connections can also mean reduced operating efficiency and\ncorresponding increased energy costs. While a single loose connection may represent only a small,\nincremental energy loss, numerous loose connections throughout the electrical system could in sum\ntranslate to a larger energy savings opportunity that could be executed by qualified personnel. Infrared\nthermography integrated with the other elements of a well constructed Electrical Preventive Maintenance\nProgram can address both loss and efficiency.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+    "9": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-006 MDP-1A Initial Open\nMissing Side Cover\nLocation Area: Assembly\nDept.\nEquipment Location By Overhead\nDoor\nCondition\nMissing covers were observed at the following components of the facility electrical system: MDP-1A.\nRecommendation\nJunction boxes, panels, switches and receptacles should be properly covered and sealed. Exposed\nelectrical conductors allow dirt and moisture to reach parts of the system and can lead to premature\nfailures and can also represent a safety hazard.\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+    "10": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRec. No.: Equipment ID: Initial/Follow-up: Recommendation Status:\n2022-03-007 Lighting Panel Initial Open\nFPE Stab-Lok Panel\nLocation Area: Warehouse\nEquipment Location Shipping\nOffice\nCondition\nIt was noted that this facility may utilize Federal Pacific Electric Company (FPE) Stab-Lok breakers and/or\npanelboards. Testing by several others concluded that certain Stab-Lok breakers do not trip according to\nUL requirements and, in some cases, jam in the “on” position. In addition, overheating problems have been\nfound with the panelboard internal bus connections.\nRecommendation\nA qualified electrical contractor should inspect the suspected equipment and if identified, the Federal\nPacific Electric Stab-Lok panelboards and breakers should be completely replaced with new panelboard\nand breaker installations. Additional information can be found at HSB.com Knowledge Center Loss\nPrevention Document # 115\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved.",
+    "11": "P.O. Box 61509\nKing of Prussia, PA 19406-0909\nTel: (800) 333-4677\nFax (800) 801-3199\nwww.hsb.com\nMarch 24, 2022\nRecommendation Type Definitions\nCritical Recommendations\nThe noted condition presents a significant risk of personnel injury, property or fire damage, exhibits signs\nof advanced degradation and imminent failure, and/or may subject the facility to an extended business\ninterruption.\nSevere Recommendations\nThe noted condition presents a risk of personnel injury, contained property damage and fire may be\npossible, and/or localized equipment damage and business interruption may result.\nAlert Recommendations\nThe noted condition is routine in nature and is easily repairable. Cost is often limited to labor and a few\nminor parts.\nAdvisory Recommendations\nThe following is helpful information based on HSB’s experience and engineering judgement.\nRecommendation Response\nPlease click the link below to provide updates or additional information related to recommendations.\nhttps://hsbuat.losscontrol360.com/jmp/FVSBTRW\nThis report does not purport to set forth all hazards nor to indicate that other hazards do not exist. By issuing this report, neither the Company nor any of\nits employees makes any warranty, express or implied, concerning the contents of this report. Furthermore, neither the Company nor any of its\nemployees shall be liable in any manner (other than liability that may be expressed in any policy of insurance that may be issued by the Company) for\npersonal injury or property damage or loss of any kind arising from or connected with this inspection or failure to inspect.\n© 2022, The Hartford Steam Boiler Inspection and Insurance Company. All rights reserved."
+  },
+  "image_filenames": [
+    "thermal_1_0.jpg",
+    "thermal_3_0.jpg",
+    "thermal_4_1.jpg",
+    "thermal_4_2.jpg",
+    "thermal_4_3.png",
+    "thermal_4_4.png",
+    "thermal_5_1.jpg",
+    "thermal_5_2.jpg",
+    "thermal_6_1.jpg",
+    "thermal_6_2.jpg",
+    "thermal_7_1.jpg",
+    "thermal_7_2.jpg",
+    "thermal_9_1.jpg",
+    "thermal_10_1.jpg"
+  ]
+}
